@@ -133,9 +133,7 @@ Blog/                           # 项目根目录
 
 ###### 1）克隆项目
 
-git clone https://github.com/Hyacine5207/hyacine4.git
-
-cd hyacine4
+git clone 
 
 ###### 2）设置虚拟环境
 
@@ -235,9 +233,9 @@ python manage.py runserver
 
 课程：Python 课程实验
 
-作者：刘浩翔
+作者：陈致达
 
-GitHub: https://github.com/Hyacine5207/hyacine4
+GitHub: https://github.com/SSB114/homework-Blogs
 
 
 
